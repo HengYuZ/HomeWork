@@ -10,6 +10,7 @@ namespace Pattern;
 use Observer\Subject;
 use Observer\Subscriber1;
 use Observer\Subscriber2;
+
 include '../../DesignPattern/Observer/Subject.php';
 
 class PatternTest

@@ -23,7 +23,7 @@ class Subject
     public function setPrice($price)
     {
         $this->price = $price;
-        echo '房价最新为'.$this->price.'<br/>';
+        echo '房价最新为' . $this->price . '<br/>';
     }
 
     //注册观察者
